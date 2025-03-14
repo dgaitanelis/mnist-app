@@ -4,7 +4,7 @@ This is a web application built with Streamlit, PyTorch, PostgreSQL, and Docker.
 
 ## Live Application
 The live application is hosted on Google Cloud. You can access it here:
-(http://34.105.147.212:8501/)
+([http://34.105.147.212:8501/](http://34.142.24.224:8501/))
 
 ## Technologies Used
 1. Streamlit: Frontend for the web application.
