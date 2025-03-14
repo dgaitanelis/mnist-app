@@ -30,7 +30,7 @@ To run the app, make sure Docker and Docker Compose are installed.
 
 4. Access the app: Once the containers are running, open your browser and go to:
 	http://localhost:8501 (for local use on your machine)
-	http://34.105.147.212:8501/ (for remote access - if hosted on a server like Google Cloud)
+	[http://34.105.147.212:8501/](http://34.142.24.224:8501/) (for remote access - if hosted on a server like Google Cloud)
 
 5. Stop the application: To stop the app, use:
    sudo docker-compose down
